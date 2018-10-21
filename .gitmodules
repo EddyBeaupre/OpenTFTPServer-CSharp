@@ -1,0 +1,3 @@
+[submodule "tftp.net"]
+	path = tftp.net
+	url = https://github.com/EddyBeaupre/tftp.net.git
